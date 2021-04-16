@@ -1,0 +1,56 @@
+
+.mainNav_container, .mainNav_items, .mainNav_navList {
+    display: flex;
+   
+}
+
+.mainNav_container h1{
+    font-size: 18px;
+    min-height: 10px;
+}
+
+ul.mainNav_navList{
+    margin: none;
+    padding: unset;
+}
+.mainNav_navList li{
+    list-style: none;
+    margin-right: 30px;
+}
+.mainNav_container{
+    background-color: #f60;
+    line-height: 0.2em;
+    margin-left: 73px;
+    width: 88.2%;
+    
+}
+.main{
+    background-color: #f6f6ef;
+    max-width: 1100px;
+    margin: auto;
+}
+
+ul{
+    list-style: none;
+}
+h1{
+    padding-left: 10px;
+    padding-top: 4px;
+    padding-right: 10px;
+}
+hr{
+    background-color:#f60;
+    height: 0.5px;
+}
+footer, ul{
+    display: flex;
+    justify-content: center;
+}
+footer, li{
+    margin-right:10px;
+    min-height: 0.2em;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
