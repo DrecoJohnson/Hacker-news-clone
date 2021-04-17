@@ -1,4 +1,9 @@
 
+*{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    
+}
 .mainNav_container, .mainNav_items, .mainNav_navList {
     display: flex;
    
@@ -7,6 +12,8 @@
 .mainNav_container h1{
     font-size: 18px;
     min-height: 10px;
+    font-size: 12px;
+
 }
 
 ul.mainNav_navList{
@@ -28,6 +35,8 @@ ul.mainNav_navList{
     background-color: #f6f6ef;
     max-width: 1100px;
     margin: auto;
+    
+    
 }
 
 ul{
@@ -53,4 +62,8 @@ footer, li{
 form{
     display: flex;
     justify-content: center;
+}
+ul, li{
+    display: flex;
+    justify-content: left;
 }
