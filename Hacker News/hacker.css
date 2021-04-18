@@ -29,6 +29,7 @@ ul.mainNav_navList{
     line-height: 0.2em;
     margin-left: 73px;
     width: 88.2%;
+    height:25px;
     
 }
 .main{
@@ -39,7 +40,7 @@ ul.mainNav_navList{
     
 }
 
-ul{
+.mainNav_navList ul{
     list-style: none;
 }
 h1{
@@ -66,4 +67,10 @@ form{
 ul, li{
     display: flex;
     justify-content: left;
+}
+ol li{
+   margin-bottom: 15px;
+}
+img{
+    margin: 2px;
 }
