@@ -22,7 +22,7 @@ ul.mainNav_navList{
 }
 .mainNav_navList li{
     list-style: none;
-    margin-right: 30px;
+    margin-right: 5px;
 }
 .mainNav_container{
     background-color: #f60;
@@ -39,6 +39,7 @@ ul.mainNav_navList{
     list-style-type: decimal;
     height: 90%;
     padding-top: 20px;
+    padding-bottom:40px;
     
     
 }
@@ -62,7 +63,7 @@ footer, ul{
     justify-content: center;
 }
 footer, li{
-    margin-right:10px;
+    margin-right:5px;
     min-height: 0.2em;
 }
 form{
@@ -86,4 +87,19 @@ button{
     padding: 0;
     background: none;
     transform:translateX(450px);
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+footer{
+    background-color: #f6f6f6;
+    max-width: 1100px;
+    margin: auto;
+}
+form{
+    background-color: #f6f6f6;
+    margin: auto;
+    max-width: 1100px;
+    padding-bottom: 13px;
 }
