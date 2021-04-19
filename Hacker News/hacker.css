@@ -27,14 +27,14 @@ ul.mainNav_navList{
 .mainNav_container{
     background-color: #f60;
     line-height: 0.2em;
-    margin-left: 73px;
-    width: 88.2%;
+    margin-left: 94px;
+    width: 86.7%;
     height:25px;
     
 }
 .main{
     background-color: #f6f6ef;
-    max-width: 1100px;
+    max-width: 1060px;
     margin: auto;
     list-style-type: decimal;
     height: 90%;
@@ -94,12 +94,12 @@ a:link{
 }
 footer{
     background-color: #f6f6f6;
-    max-width: 1100px;
+    max-width: 1060px;
     margin: auto;
 }
 form{
     background-color: #f6f6f6;
     margin: auto;
-    max-width: 1100px;
+    max-width: 1060px;
     padding-bottom: 13px;
 }
