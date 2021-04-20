@@ -6,14 +6,12 @@
 }
 .mainNav_container, .mainNav_items, .mainNav_navList {
     display: flex;
-   
 }
 
 .mainNav_container h1{
     font-size: 18px;
     min-height: 10px;
     font-size: 12px;
-
 }
 
 ul.mainNav_navList{
@@ -29,8 +27,7 @@ ul.mainNav_navList{
     line-height: 0.2em;
     margin-left: 94px;
     width: 86.7%;
-    height:25px;
-    
+    height:25px; 
 }
 .main{
     background-color: #f6f6ef;
@@ -40,8 +37,6 @@ ul.mainNav_navList{
     height: 90%;
     padding-top: 20px;
     padding-bottom:40px;
-    
-    
 }
 
 .mainNav_navList ul{
@@ -76,7 +71,6 @@ ul, li{
 }
 ol li{
    margin-bottom: 15px;
-   
 }
 img{
     margin: 2px;
