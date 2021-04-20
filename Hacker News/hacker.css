@@ -21,6 +21,8 @@ ul.mainNav_navList{
 .mainNav_navList li{
     list-style: none;
     margin-right: 5px;
+    font-size: 10px;
+
 }
 .mainNav_container{
     background-color: #f60;
